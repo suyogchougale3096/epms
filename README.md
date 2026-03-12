@@ -830,4 +830,4 @@ Sprint 12 →  US-021                        Dashboard & Polish
 
 ---
 
-*Document Version: 1.0 | Employee & Payroll Management System — TechSoft Pune*
+*Document Version: 1.0 | Employee & Payroll Management System
